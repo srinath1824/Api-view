@@ -1,0 +1,10 @@
+const actionTypes = {
+  SET_TYPE: "SET/SET_TYPE",
+  SET_VALUE: "SET/SET_VALUE",
+  ADD_RATES: "SET/ADD_RATES",
+  ADD_RATE_VALUE: "SET/ADD_RATE_VALUE",
+  ADD_PRICE: "SET/ADD_PRICE",
+  SET_DELETE_VALUE: "SET/SET_DELETE_VALUE",
+};
+
+export default actionTypes;
